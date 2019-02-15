@@ -23,7 +23,7 @@ client.on('ready', () => {
 
 
 //=================================== Owner ===================================
-const developers = ['316324088865882142'];
+const developers = ['441358437025316864'];
 const admin = "!";
 client.on('message', message => {
     var argresult = message.content.split(` `).slice(1).join(' ');
@@ -7744,4 +7744,4 @@ client.on("ready", () => {
 
 
    // Token
-client.login(process.env.BOT_TOKEN);
+client.login(NTM4MDg2ODYxOTE5NDg1OTcz.D0i_7g.eSiwIpSOZ9bVdhStHFxs07I23RY);
